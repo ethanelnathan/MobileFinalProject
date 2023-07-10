@@ -39,9 +39,3 @@ or
 - Ethan Mathias - Frontend, 
 - Jonathan Jason - Frontend, 
 - Jesslyn Audrey - UI/UX, 
-
-
-8. pull on main branch
-
-![Untitled1](https://github.com/joshuawenata/MobileFinalProject/assets/100125029/32809087-6f32-4d5d-9d33-d5ebf72935ef)
-
